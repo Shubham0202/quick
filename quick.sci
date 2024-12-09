@@ -11,7 +11,7 @@ function sorted = quickSort(arr)
     end
 end
 
-// Main Program
+
 clc;
 disp("Quick Sort Algorithm");
 
